@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer and I love creating smart systems.
 
 
 ## 🛠 Skills
-Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Pytorch
+Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Pytorch, FastAPI, Backend Development
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karanjakhar.net/)
