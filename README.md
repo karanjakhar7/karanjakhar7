@@ -2,11 +2,11 @@
 # Hi, I'm Karan Jakhar! 👋
 
 # 🚀 About Me
-I'm a Machine Learning Engineer and I love creating smart systems.
+I'm a Machine Learning Engineer and I love creating smart systems. Currently, I am very interested in LLMs and RAG based approaches to solve hard problems.
 
 
 ## 🛠 Skills
-Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Pytorch, FastAPI, Backend Development
+Python, Machine Learning, Deep Learning, LLMs, RAG, Computer Vision, Natural Language Processing, Pytorch, FastAPI, Backend Development
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karanjakhar.net/)
