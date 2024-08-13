@@ -13,7 +13,7 @@ I'm a Machine Learning Engineer passionate about creating smart systems. Current
 <h2>🛠 Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,pytorch,postgres,docker,flask,git,rust,terraform,sklearn,pandas&theme=dark" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,pytorch,sklearn,postgres,docker,flask,git,rust,terraform,kubernetes&theme=dark" alt="My Skills">
 </p>
 
 <hr>
@@ -36,13 +36,14 @@ I'm a Machine Learning Engineer passionate about creating smart systems. Current
 <h2>🔗 Let's Connect</h2>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/karanjakhar7/"> 
+  <a href="https://www.linkedin.com/in/karanjakhar7/" style="margin: 0 15px;"> 
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
-  </a> 
-  <a href="https://karanjakhar.net/"> 
+  </a>&nbsp;&nbsp;
+  <a href="https://karanjakhar.net/" style="margin: 0 15px;"> 
     <img src="https://img.shields.io/badge/my%20blog-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Blog"> 
-  </a> 
-  <a href="mailto:k.jakhar1303@gmail.com"> 
+  </a>&nbsp;&nbsp;
+  <a href="mailto:k.jakhar1303@gmail.com" style="margin: 0 15px;"> 
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
-  </a> 
+  </a>&nbsp;&nbsp;
 </p>
+
