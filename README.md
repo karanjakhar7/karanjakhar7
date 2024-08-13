@@ -1,29 +1,48 @@
+<h1 align="center">Hi, I'm Karan Jakhar! 👋</h1>
 
-# Hi, I'm Karan Jakhar! 👋
+<hr>
 
-# 🚀 About Me
-I'm a Machine Learning Engineer and I love creating smart systems. Currently, I am very interested in LLMs and RAG based approaches to solve hard problems.
+<h2>🚀 About Me</h2>
 
+<p>
+I'm a Machine Learning Engineer passionate about creating smart systems. Currently, I'm deeply interested in LLMs and RAG-based approaches to tackle challenging problems. Let's connect and build something awesome together!
+</p>
 
-## 🛠 Skills
-Python, Machine Learning, Deep Learning, LLMs, RAG, Computer Vision, Natural Language Processing, Pytorch, FastAPI, Backend Development
+<hr>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://karanjakhar.net/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanjakhar7/)
+<h2>🛠 Skills</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,pytorch,postgres,docker,flask,git,rust,terraform,sklearn,pandas&theme=dark" alt="My Skills">
+</p>
 
-<!--
-**karanjakhar7/karanjakhar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>📊 Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="70%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanjakhar7&theme=gotham" alt="GitHub Profile Details">
+    </td>
+    <td width="30%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanjakhar7&theme=gotham" alt="GitHub Repos Per Language">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🔗 Let's Connect</h2>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/karanjakhar7/"> 
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+  </a> 
+  <a href="https://karanjakhar.net/"> 
+    <img src="https://img.shields.io/badge/my%20blog-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Blog"> 
+  </a> 
+  <a href="mailto:k.jakhar1303@gmail.com"> 
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+  </a> 
+</p>
